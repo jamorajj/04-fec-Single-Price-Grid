@@ -2,7 +2,7 @@
 
 Frontend Challenge - Single Price Grid
 
-Solution for Single Price Grid challenge
+Solution for Single Price Grid challenge.
 
 # Frontend Mentor - Single Price Grid
 
